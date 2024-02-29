@@ -1,0 +1,35 @@
+# Compiled files
+target/
+
+# Dependency directories
+Cargo.lock
+Cargo.toml
+
+# Generated documentation
+doc/
+
+# Rust VS Code settings
+.vscode/
+
+# Rust IntelliJ settings
+.idea/
+
+# Visual Studio Code directories
+.cargo/
+
+# Eclipse settings
+.classpath
+.project
+
+# Local binary file
+# (this is for example of building things with the `cargo` tool)
+build/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Rust master class .gitignore
